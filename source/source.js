@@ -49,7 +49,7 @@ CompetitorMod.init = function(){
 	companyNames.push("Black Wolf Games");
 	companyNames.push("Bulldog Productions");
 	companyNames.push("Kogonami");
-    companyNames.push("Eagle Software");
+    companyNames.push("Hj Software");
 
 	//test
 	/*ResourceKeys.Level1 = "./mods/CompetitorMod/source/images/level1.png";
